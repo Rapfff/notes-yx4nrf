@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://Rapfff.github.io/notes-yx4nrf/sitemap.xml
